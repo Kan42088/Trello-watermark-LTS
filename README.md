@@ -3,7 +3,7 @@
 - Phần mềm là file rar trong file được tải về.
 - Để xác thực với trang web muốn thêm sản phẩm phải cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 
-*Bản 0.2.0:
+*Bản 0.2.1:
 - Sửa lỗi đóng băng ứng dụng sau khi chạy xong tiến trình đẩy sản phẩm.
 
 *Bản 0.2.0:
