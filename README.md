@@ -4,7 +4,7 @@
 - Để xác thực với trang web muốn thêm sản phẩm phải cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 
 *Bản 0.2.0:
--Sửa lỗi đóng băng ứng dụng sau khi chạy xong tiến trình đẩy sản phẩm.
+- Sửa lỗi đóng băng ứng dụng sau khi chạy xong tiến trình đẩy sản phẩm.
 
 *Bản 0.2.0:
 - Lưu lại thông tin của cài đặt trello và woocommerce.
