@@ -3,6 +3,11 @@
 - Phần mềm là file rar trong file được tải về.
 - Để xác thực với trang web muốn thêm sản phẩm phải cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 
+*Bản 0.3.0:
+- Hệ thống đăng nhập bằng tài khoản Twobros.
+- Chọn list các thẻ trello sẽ được chuyển đến sau khi hoàn thành chuyển đổi watermark.
+- Nút dừng tiến trình đã hoạt động.
+
 *Bản 0.2.1:
 - Sửa lỗi đóng băng ứng dụng sau khi chạy xong tiến trình đẩy sản phẩm.
 
