@@ -5,7 +5,7 @@
 
 *Bản 0.X.X:
 - Sửa lỗi tên sản phẩm bị thiếu khi trong tên chứa dấu "-".
-- Tự động xóa ảnh trùng.
+- Tự động xóa ảnh trùng trong media.
 
 *Bản 0.3.0:
 - Hệ thống đăng nhập bằng tài khoản Twobros.
