@@ -3,9 +3,10 @@
 - Phần mềm là file rar trong file được tải về.
 - Để xác thực với trang web muốn thêm sản phẩm phải cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 
-*Bản 0.X.X:
+*Bản 1.0.0:
 - Sửa lỗi tên sản phẩm bị thiếu khi trong tên chứa dấu "-".
 - Thêm tính năng tự động xóa ảnh trùng trong media.
+- Hướng dẫn sử dụng phần mềm.
 
 *Bản 0.3.0:
 - Hệ thống đăng nhập bằng tài khoản Twobros.
