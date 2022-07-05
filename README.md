@@ -1,7 +1,7 @@
 # Trello-watermark-LTS
 *Note: 
 - Phần mềm là file rar trong file được tải về.
-- Để xác thực với trang web muốn thêm sản phẩm phải cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
+- Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 
 *Bản 1.0.0:
 - Sửa lỗi tên sản phẩm bị thiếu khi trong tên chứa dấu "-".
