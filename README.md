@@ -27,7 +27,7 @@
 
 *Bản 0.1.1:
 - Tùy chọn nguồn ảnh từ bảng và danh sách trên trello.
-- Căn chỉnh kích thước đầu ra, dung lượng, màu  của ảnh thành .
+- Căn chỉnh kích thước đầu ra, dung lượng, màu  của ảnh thành phẩm.
 - Tùy chọn lưu ảnh gốc hoặc ảnh đã qua quá trình watermark về máy.
 - Watermark vói 2 lớp phủ có thể tùy chỉnh kích thước, vị trí và độ trong suốt.
 - Xem trực tiếp ảnh đã qua watermark thông qua picture preview.
