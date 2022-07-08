@@ -5,7 +5,7 @@
 
 *Bản 1.3.1:
 - Loại bỏ thanh cuộn dưới.
-- Thêm tính năng tự động lấy label chứ từ "White" làm nền trắng hoặc "Black" làm nền đen cho ảnh png và không lấy nhận ảnh nền cho ảnh png.
+- Thêm tính năng tự động lấy label chứ từ "White" làm nền trắng hoặc "Black" làm nền đen cho ảnh png và không lấy ảnh nền đã chọn làm ảnh nền cho ảnh png.
 
 *Bản 1.2.0:
 - Hỗ trợ thanh cuộn cho màn hình độ phân giải thấp (Chiều cao 768).
