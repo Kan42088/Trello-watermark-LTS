@@ -3,6 +3,9 @@
 - Phần mềm là file rar trong file được tải về.
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 
+*Bản 1.2.0:
+- Hỗ trợ thanh cuộn cho màn hình độ phân giải thấp (Chiều cao 768).
+
 *Bản 1.1.1:
 - Giảm hiệu năng truy xuất trello giữa mỗi thẻ đi 0.5s (tránh lỗi 503).
 - Các trường thông tin khác đã được lưu lại cho lần đăng nhập sau.
