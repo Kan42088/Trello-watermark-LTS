@@ -3,6 +3,10 @@
 - Phần mềm là file rar trong file được tải về.
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 
+*Bản 1.3.1:
+- Loại bỏ thanh cuộn dưới.
+- Thêm tính năng tự động lấy label chứ từ "White" làm nền trắng hoặc "Black" làm nền đen cho ảnh png và không lấy nhận ảnh nền cho ảnh png.
+
 *Bản 1.2.0:
 - Hỗ trợ thanh cuộn cho màn hình độ phân giải thấp (Chiều cao 768).
 
