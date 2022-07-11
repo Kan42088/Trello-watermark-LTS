@@ -6,8 +6,7 @@
 *Bản 1.3.4:
 - Hiệu chỉnh "chỉ dùng màu nền từ nhãn Trello cho png" thành "màu nền từ nhã Trello cho png".
 - Nhận diện nhãn Trello không phân biệt biết hoa viết thường.
-- Sửa lỗi tự thêm nền đen vào ảnh trong suốt (png).
-- Sửa lỗi hệ thống.
+- Sửa lỗi tự thêm nền đen vào ảnh trong suốt (png) và lỗi hệ thống.
 
 *Bản 1.3.1:
 - Loại bỏ thanh cuộn dưới.
