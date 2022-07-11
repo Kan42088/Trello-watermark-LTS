@@ -3,6 +3,12 @@
 - Phần mềm là file rar trong file được tải về.
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 
+*Bản 1.3.4:
+- Hiệu chỉnh "chỉ dùng màu nền từ nhãn Trello cho png" thành "màu nền từ nhã Trello cho png".
+- Nhận diện nhãn Trello không phân biệt biết hoa viết thường.
+- Sửa lỗi tự thêm nền đen vào ảnh trong suốt (png).
+- Sửa lỗi hệ thống.
+
 *Bản 1.3.1:
 - Loại bỏ thanh cuộn dưới.
 - Thêm tính năng tự động lấy label chứa từ "White" làm nền trắng hoặc "Black" làm nền đen cho ảnh png và không lấy ảnh nền đã chọn làm ảnh nền cho ảnh png.
