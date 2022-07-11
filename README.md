@@ -4,7 +4,7 @@
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 
 *Bản 1.3.4:
-- Hiệu chỉnh "chỉ dùng màu nền từ nhãn Trello cho png" thành "màu nền từ nhã Trello cho png".
+- Hiệu chỉnh "chỉ dùng màu nền từ nhãn Trello cho png" thành "màu nền từ nhãn Trello cho png".
 - Nhận diện nhãn Trello không phân biệt biết hoa viết thường.
 - Sửa lỗi tự thêm nền đen vào ảnh trong suốt (png) và lỗi hệ thống.
 
