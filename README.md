@@ -3,6 +3,9 @@
 - Phần mềm là file rar trong file được tải về.
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 
+*Bản 1.3.5:
+- Sửa lỗi cash app và GDI.
+
 *Bản 1.3.4:
 - Hiệu chỉnh "chỉ dùng màu nền từ nhãn Trello cho png" thành "màu nền từ nhãn Trello cho png".
 - Nhận diện nhãn Trello không phân biệt viết hoa viết thường.
