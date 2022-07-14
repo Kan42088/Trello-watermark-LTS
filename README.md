@@ -4,6 +4,10 @@
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 - Bản ổn định hiện tại: v1.3.7
 
+*Bản 1.4.1:
+- Thông báo và dừng tiến trình nếu sai tài khoản đăng nhập vào web.
+- Thêm nút tắt mở thanh cuộn bên.
+
 *Bản 1.3.7:
 - Sửa lỗi lấy link ảnh trong trash làm ảnh sản phẩm đối với những sản phẩm tải lên sau lần đầu.
 
