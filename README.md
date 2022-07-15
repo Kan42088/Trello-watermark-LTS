@@ -4,9 +4,10 @@
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 - Bản ổn định hiện tại: v1.3.7 | v1.4.1
 
-*Soon~ Bản 2.0.0:
+*Bản 2.0.0:
 - Chạy đa luồng, đa website cùng một lần chạy.
 - Loại bỏ chuyển thẻ sang cột mới sau khi đã đẩy sản phẩm lên các trang Woocommerce ở bản v1(đơn luồng).
+- Điều chỉnh dài rộng của ảnh gốc không quá ảnh thành phẩm.
 
 *Bản 1.4.1:
 - Thông báo và dừng tiến trình nếu sai tài khoản đăng nhập vào web.
