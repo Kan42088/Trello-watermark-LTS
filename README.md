@@ -4,6 +4,12 @@
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 - Bản ổn định hiện tại: v1.3.7 | v1.4.1
 
+*Bản 2.2.2:
+- Mở lại chức năng chuyển card đã qua watermark sang list mới.
+- Comment vào các thẻ đã watermawrk các web đã hoàn thành và chưa hoàn thành.
+- Sửa logo.
+- Sửa lỗi mất dữ liêụ danh mục sản phẩm => 400 bad request.
+
 *Bản 2.0.0:
 - Chạy đa luồng, đa website cùng một lần chạy.
 - Loại bỏ chuyển thẻ sang cột mới sau khi đã đẩy sản phẩm lên các trang Woocommerce ở bản v1(đơn luồng).
