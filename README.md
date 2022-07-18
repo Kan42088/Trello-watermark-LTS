@@ -2,7 +2,10 @@
 *Note: 
 - Phần mềm là file rar trong file được tải về.
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
-- Bản ổn định hiện tại: v1.4.1 || v2.2.3
+- Bản ổn định hiện tại: v1.4.1 | v2.2.3 | v2.2.4
+
+*Bản 2.2.3:
+- Thay đổi downloadable name từ tên sản phẩm thành mã sku
 
 *Bản 2.2.3:
 - Mở lại chức năng chuyển card đã qua watermark sang list mới.
