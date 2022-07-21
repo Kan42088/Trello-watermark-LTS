@@ -2,7 +2,7 @@
 *Note: 
 - Phần mềm là file rar trong file được tải về.
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
-- Bản ổn định hiện tại: v1.5.1 | v2.4.2
+- Bản ổn định hiện tại: v1.5.3-EOS | v2.4.2
 
 *Bản 1.5.3-EOS:
 - Sửa lỗi không nhận được ảnh mark/background khi ảnh mark/background đã bị xoá.
