@@ -4,6 +4,11 @@
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 - Bản ổn định hiện tại: v1.5.1 | v2.4.2
 
+*Bản 1.5.3-EOS:
+- Sửa lỗi không nhận được ảnh mark/background khi ảnh mark/background đã bị xoá.
+- Cải thiện hiệu năng khi xác thực tài khoản.
+- Dừng cập nhật cho bản v1.x .
+
 *Bản 2.4.2:
 - Hiển thị ảnh preview của từng luồng khi nhấn vào tên trên danh sách luồng chạy.
 - Sửa lỗi không nhận được ảnh mark/background khi ảnh mark/background đã bị xoá.
