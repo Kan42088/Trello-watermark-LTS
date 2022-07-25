@@ -4,6 +4,11 @@
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 - Bản ổn định hiện tại: v1.5.3-EOS | v2.4.2
 
+*Bản 2.4.4:
+- Sửa lỗi 400 đối với một số mô tả.
+- Thử nghiệm sửa lỗi một vài ảnh png giảm dung lượng không đáng kể.
+
+
 *Bản 1.5.3-EOS:
 - Sửa lỗi không nhận được ảnh mark/background khi ảnh mark/background đã bị xoá.
 - Cải thiện hiệu năng khi xác thực tài khoản.
