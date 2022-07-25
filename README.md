@@ -4,6 +4,10 @@
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 - Bản ổn định hiện tại: v1.5.3-EOS | v2.4.2
 
+*Bản 2.4.5:
+- Thử nghiệm thông báo phân biệt sản phẩm trùng và sản phẩm tải lên do lỗi data.
+- Sửa lại vị trí cache file ảnh tạm. 
+
 *Bản 2.4.4:
 - Sửa lỗi 400 đối với một số mô tả.
 - Thử nghiệm sửa lỗi một vài ảnh png giảm dung lượng không đáng kể.
