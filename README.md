@@ -2,7 +2,12 @@
 *Note: 
 - Phần mềm là file rar trong file được tải về.
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
-- Bản ổn định hiện tại: v1.5.3-EOS | v2.4.2
+- Bản ổn định hiện tại: v1.5.3-EOS | v2.5.2
+
+*Bản 2.5.2:
+- Tự gom thư mục ảnh đầu ra theo từng luồng.
+- Chuyển đổi và giảm dung lượng ảnh png sang jpeg.
+- Tối ưu hoá tên ảnh (Do ảnh jpeg cho phép tối đa 265 kí tự nên tên sản phẩm sẽ bị loại bỏ trong tên ảnh đầu ra).
 
 *Bản 2.4.5:
 - Thử nghiệm thông báo phân biệt sản phẩm trùng và sản phẩm tải lên do lỗi data.
