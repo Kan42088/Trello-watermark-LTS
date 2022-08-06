@@ -2,7 +2,10 @@
 *Note: 
 - Phần mềm là file rar trong file được tải về.
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
-- Bản ổn định hiện tại: v1.5.3-EOS | v2.5.3
+- Bản ổn định hiện tại: v1.5.3-EOS | v2.6.0
+
+*Bản 2.6.0:
+- Thêm snippet variable cho mô tả sản phẩm.
 
 *Bản 2.5.3:
 - Sửa title media thành tên thẻ dạng SEO.
