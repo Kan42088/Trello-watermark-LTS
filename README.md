@@ -4,6 +4,9 @@
 - Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 - Bản ổn định hiện tại: v1.5.3-EOS | v2.6.0
 
+*Bản 2.7.0:
+- Sửa lỗi các kí tự đặc biệt và chữ tiếng việt bị hiển thị thành kí tự lạ.
+
 *Bản 2.6.0:
 - Thêm snippet variable cho mô tả sản phẩm.
 
