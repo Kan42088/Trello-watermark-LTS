@@ -1,8 +1,12 @@
 # Trello-watermark-LTS
 *Note: 
 - Phần mềm là file rar trong file được tải về.
-- Để xác thực với trang web muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
-- Bản ổn định hiện tại: v1.5.3-EOS | v2.7.0
+- Để xác thực với trang web Woocommerce muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
+- Để đẩy sản phẩm lên Inspire Uplift cần đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
+- Bản ổn định hiện tại: v1.5.3-EOS | v2.7.0 
+
+*Bản 3.0.0:
+- Thêm tùy chọn tải sản phẩm lên Inspire Uplift.
 
 *Bản 2.7.0:
 - Sửa lỗi các kí tự đặc biệt và chữ tiếng việt bị hiển thị thành kí tự lạ.
