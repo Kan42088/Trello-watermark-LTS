@@ -6,9 +6,10 @@
 - Các phiên bản mới link tải sẽ nằm trong mục release.
 - Bản ổn định hiện tại: v1.5.3-EOS | v2.7.0 
 
-*Bản 3.0.x:
+*Bản 3.0.3:
 - Sửa lỗi tải khi xử lý sản phẩm lên Inspire Uplift.
-- kiểm tra các công đoạn khi up sản phẩm lên Inspire Uplift.
+- Kiểm tra các công đoạn khi up sản phẩm lên Inspire Uplift.
+- Sửa lỗi đóng băng khi tải 1 sản phẩm lỗi.
 
 *Bản 3.0.0:
 - Thêm tùy chọn tải sản phẩm lên Inspire Uplift.
