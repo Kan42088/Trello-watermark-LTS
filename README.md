@@ -12,7 +12,7 @@
 - Sửa lỗi thay thế zip bằng ảnh khi không thể tải được zip.
 
 *Bản 3.0.6:
--Bổ xung link recheck sản phẩm được xử vào log.
+- Bổ xung link recheck sản phẩm được xử vào log.
 
 *Bản 3.0.5:
 - Chuyển nút show guide và nút skip khi up lên inspire uplift thành optional.
