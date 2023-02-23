@@ -6,6 +6,10 @@
 - Để đẩy sản phẩm lên Inspire Uplift cần đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
 - Bản ổn định hiện tại: v1.5.3-EOS | v2.7.0 | v3.0.3 
 
+*Bản 3.4.0:
+- Thêm hướng dẫn trên từng đầu mục dữ liệu.
+- Bổ sung trường nhập mô tả mới cho trang Inspire Uplift.
+
 *Bản 3.2.1:
 - Kiểm tra sản phẩm đã được thêm thành công khi tải lên inspire uplift.
 - Đếm số lượng sản phẩm đã up thành công lên inspire uplift.
