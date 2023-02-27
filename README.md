@@ -6,10 +6,9 @@
 - Để đẩy sản phẩm lên Inspire Uplift cần đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
 - Bản ổn định hiện tại: v1.5.3-EOS | v2.7.0 | v3.4.0 
 
-*Bản 3.x.x:
+*Bản 3.7.2:
 - Sửa lỗi khi tạo luồng mới, mô tả của trang Woocommerce lại thành trang Inspire.
 - Thêm bộ lọc cho các thẻ khi lấy dữ liệu từ Trello.
-- Lưu thông tin các thẻ nếu tool bị lỗi trong quá trình lấy thông tin các thẻ Trello.
 - Lấy lại thông tin các thẻ trong lần chạy lỗi trước đó.
 - Thêm authen cho các file zip được tải thẳng lên Trello.
 - Cho phép lấy dữ liệu các thẻ từ toàn bộ 1 bảng.
