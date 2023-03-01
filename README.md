@@ -7,10 +7,10 @@
 - Bản ổn định hiện tại: v1.5.3-EOS | v2.7.0 | v3.4.0 
 
 *Bản 3.8.3:
--Thêm khả năng lọc nhiều keyword hơn cho bộ lọc thẻ.
--Thêm check lỗi file quá 20mb.
--Thêm tính năng cho phép chuyển/không chuyển thẻ up lỗi lên web sang cột mới.
--Sửa lỗi bộ lọc thẻ không lưu.
+- Thêm khả năng lọc nhiều keyword hơn cho bộ lọc thẻ.
+- Thêm check lỗi file quá 20mb.
+- Thêm tính năng cho phép chuyển/không chuyển thẻ up lỗi lên web sang cột mới.
+- Sửa lỗi bộ lọc thẻ không lưu.
 
 *Bản 3.7.3:
 - Sửa lỗi thêm dữ liệu vào Inspire Uplift:
