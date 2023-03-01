@@ -14,10 +14,10 @@
 
 *Bản 3.7.3:
 - Sửa lỗi thêm dữ liệu vào Inspire Uplift:
-+Thêm hàng đợi load trang add sản phẩm.
-+Thêm hàng đợi tải lên file ảnh.
-+Thêm hàng đợi tải lên file zip.
-+Cho phép thử add sản phẩm lên đến 3 lần (quá 3 lần => sản phẩm lỗi)
++ Thêm hàng đợi load trang add sản phẩm.
++ Thêm hàng đợi tải lên file ảnh.
++ Thêm hàng đợi tải lên file zip.
++ Cho phép thử add sản phẩm lên đến 3 lần (quá 3 lần => sản phẩm lỗi)
 
 *Bản 3.7.2:
 - Sửa lỗi khi tạo luồng mới, mô tả của trang Woocommerce lại thành trang Inspire.
