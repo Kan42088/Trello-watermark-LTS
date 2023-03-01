@@ -6,6 +6,19 @@
 - Để đẩy sản phẩm lên Inspire Uplift cần đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
 - Bản ổn định hiện tại: v1.5.3-EOS | v2.7.0 | v3.4.0 
 
+*Bản 3.8.3:
+-Thêm khả năng lọc nhiều keyword hơn cho bộ lọc thẻ.
+-Thêm check lỗi file quá 20mb.
+-Thêm tính năng cho phép chuyển/không chuyển thẻ up lỗi lên web sang cột mới.
+-Sửa lỗi bộ lọc thẻ không lưu.
+
+*Bản 3.7.3:
+- Sửa lỗi thêm dữ liệu vào Inspire Uplift:
++Thêm hàng đợi load trang add sản phẩm.
++Thêm hàng đợi tải lên file ảnh.
++Thêm hàng đợi tải lên file zip.
++Cho phép thử add sản phẩm lên đến 3 lần (quá 3 lần => sản phẩm lỗi)
+
 *Bản 3.7.2:
 - Sửa lỗi khi tạo luồng mới, mô tả của trang Woocommerce lại thành trang Inspire.
 - Thêm bộ lọc cho các thẻ khi lấy dữ liệu từ Trello.
