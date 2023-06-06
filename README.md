@@ -4,7 +4,13 @@
 - Phần mềm là file rar trong file được tải về.
 - Để xác thực với trang web Woocommerce muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
 - Để đẩy sản phẩm lên Inspire Uplift cần đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
-- Bản ổn định hiện tại: v3.11.0
+- Bản ổn định hiện tại: v3.11.2
+
+*Bản 3.11.2:
+- Sửa lỗi tạo mới luồng chạy thiếu thông tin cho trang Inspire Uplift.
+- 
+*Bản 3.11.1:
+- Start maximined khi tải sản phẩm lên Inspire Uplift.
 
 *Bản 3.11.0:
 - Sửa tag thành option cho các sản phẩm Inspire.
