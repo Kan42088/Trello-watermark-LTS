@@ -8,7 +8,7 @@
 
 *Bản 3.11.2:
 - Sửa lỗi tạo mới luồng chạy thiếu thông tin cho trang Inspire Uplift.
-- 
+
 *Bản 3.11.1:
 - Start maximined khi tải sản phẩm lên Inspire Uplift.
 
