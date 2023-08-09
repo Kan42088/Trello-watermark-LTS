@@ -1,5 +1,6 @@
-# Trello-watermark-LTS
+# Trello-watermark-EOS
 *Note: 
+- TOOL ĐÃ DỪNG HỖ TRỢ CẬP NHẬT, ĐỂ SỬ DỤNG CÁC BẢN ĐƯỢC HỖ TRỢ VUI LÒNG SỬ DỤNG TẠI: https://github.com/QuangTungTB/TwoBros-Tools-System
 - Các phiên bản mới link tải sẽ nằm trong mục RELEASE. ==============>
 - Phần mềm là file rar trong file được tải về.
 - Để xác thực với trang web Woocommerce muốn thêm sản phẩm PHẢI cài đặt plugin "JSON Basic Authentication" tại đây hoặc https://github.com/WP-API/Basic-Auth
